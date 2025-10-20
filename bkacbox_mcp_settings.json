@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "oxylabs": {
+      "command": "uvx",
+      "args": ["oxylabs-mcp"],
+      "env": {
+        "OXYLABS_USERNAME": "leisson_vBsS6",
+        "OXYLABS_PASSWORD": "Syncmaster550sss="
+      }
+    }
+  }
+}
